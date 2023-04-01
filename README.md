@@ -1,6 +1,6 @@
 [![Build status](https://ci.appveyor.com/api/projects/status/0okul8s786lo10kl?svg=true)](https://ci.appveyor.com/project/Gto1103/ra-props-listing)
 
-Страница проекта
+[Страница проекта](https://gto1103.github.io/ra-props-listing/)
 
 # Список предложений
 
